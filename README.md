@@ -1,2 +1,2 @@
-# Fortran-QuickSort
+# Fortran QuickSort
 Quicksort via pure procedures
