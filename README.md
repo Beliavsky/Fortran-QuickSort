@@ -1,5 +1,5 @@
 # Fortran QuickSort
-Quicksort via pure procedures, adapted from Alan Miller's [qsort.f90](https://jblevins.org/mirror/amiller/qsort.f90). Compiling with `gfortran kind.f90 qsort xqsort.f90` and running gives sample output
+Quicksort via `PURE` procedures, adapted from Alan Miller's [qsort.f90](https://jblevins.org/mirror/amiller/qsort.f90). Compiling with `gfortran kind.f90 qsort xqsort.f90` and running gives sample output
 
 ```
  Testing indexx_real with real array:
